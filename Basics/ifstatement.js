@@ -8,5 +8,5 @@ console.log(x);
 if (x >= 4){
     console.log("you win!");
 } else {
-    console.log("you lose!");
+    console.log("you lose! try again");
 }
